@@ -1,3 +1,5 @@
+/*THERE IS A LOT OF COMMENTS AND CODE INSIDE THOSE COMMENTS, FEEL FREE TO USE THOSE CHUNKS OF CODE AT YOUR FREE WILL*/
+
 //console.log("Hello World!");
 
 //How to write a comment inline
